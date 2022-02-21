@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RegistrationForm</string>
+    <string name="edt">Select Gender</string>
+    <string name="edt1">Male</string>
+    <string name="edt2">Female</string>
+    <string name="edtx">Enter Your First Name</string>
+    <string name="edtx1">Enter Your Last Name</string>
+    <string name="edtx2">Enter Your Mobile Number</string>
+    <string name="edtx3">Enter Your Email</string>
+    <string name="ed">Select Course: -</string>
+    <string name="ed1">Android Studio</string>
+    <string name="ed2">Java</string>
+    <string name="ed3">Kotlin</string>
+    <string name="ed4">Sql</string>
+    <string name="ed5">Python</string>
+    <string name="ed6">C</string>
+    <string name="ed7">C++</string>
+    <string name="ed8">JavaScript</string>
+    <string name="ed9">Visual Basic</string>
+    <string name="ed10">Submit Form</string>
+    <string name="ed11">Reset Form</string>
+    <string name="invalid_name">Please enter valid first name.</string>
+    <string name="invalid_number">Please enter valid mobile number</string>
+    <string name="invalid_Address">PLease enter valid Email Address</string>
+    <string name="nam">FIRST NAME</string>
+</resources>
